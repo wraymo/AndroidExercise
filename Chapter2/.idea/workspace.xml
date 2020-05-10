@@ -10,7 +10,24 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="729fcb2d-4bda-479a-9459-683cdd7e7343" name="Default Changelist" comment="" />
+    <list default="true" id="729fcb2d-4bda-479a-9459-683cdd7e7343" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter-2-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homework/homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/NoteActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/NoteActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/NoteOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/NoteOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/beans/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/beans/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/db/TodoContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/db/TodoContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/db/TodoDbHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/db/TodoDbHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/operation/activity/DatabaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/operation/activity/DatabaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/ui/NoteViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter6/app/src/main/java/com/byted/camp/todolist/ui/NoteViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter6/app/src/main/res/layout/activity_note.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter6/app/src/main/res/layout/activity_note.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +55,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZtYLtdlHS4LPIgqGU2iB76eCGL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="SJE5T17311011498" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-04-01T15:03:47.388Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="D:/Android" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -184,5 +206,18 @@
       <updated>1585659804898</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

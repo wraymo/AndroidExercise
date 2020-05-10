@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Chapter-2-master.iml" filepath="$PROJECT_DIR$/Chapter-2-master.iml" group="Chapter-2-master" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Chapter-2-master/app" />
-      <module fileurl="file://$PROJECT_DIR$/homework/homework.iml" filepath="$PROJECT_DIR$/homework/homework.iml" group="Chapter-2-master/homework" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2.iml" filepath="$PROJECT_DIR$/Chapter2.iml" group="Chapter2" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Chapter2/app" />
+      <module fileurl="file://$PROJECT_DIR$/homework/homework.iml" filepath="$PROJECT_DIR$/homework/homework.iml" group="Chapter2/homework" />
     </modules>
   </component>
 </project>

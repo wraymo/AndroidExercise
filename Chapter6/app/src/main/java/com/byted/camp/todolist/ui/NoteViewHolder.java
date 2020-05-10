@@ -14,6 +14,7 @@ import com.byted.camp.todolist.R;
 import com.byted.camp.todolist.beans.Note;
 import com.byted.camp.todolist.beans.State;
 
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Locale;
 
@@ -57,10 +58,20 @@ public class NoteViewHolder extends RecyclerView.ViewHolder {
                 operator.updateNote(note);
             }
         });
+
+        if(note.getPriority() == 3)
+            this.itemView.setBackgroundColor(Color.RED);
+        else if(note.getPriority() == 2)
+            this.itemView.setBackgroundColor(Color.GREEN);
+
         deleteBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                operator.deleteNote(note);
+                try {
+                    operator.deleteNote(note);
+                } catch (ParseException e) {
+                    e.printStackTrace();
+                }
             }
         });
 
